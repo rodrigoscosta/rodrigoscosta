@@ -1,7 +1,7 @@
 
 
 ### <h1 align="center">Hi 👋, I'm Rodrigo</h1>
-- I am a passionate .NET developer from São Paulo, Brazil.
+- I am a passionate backend developer from São Paulo, Brazil.
 - Looking for opportunities and collabaration in projects related to .NET.
 - I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
 - I’m learning at the moment C#, .NET and Angular. 

@@ -2,8 +2,8 @@
 
 ### <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 - I am a passionate backend developer from São Paulo, Brazil.
-- Looking for opportunities and collabaration in projects related to .NET.
-- I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
+- Looking for opportunities and collaboration in projects related to .NET.
+- I’m brushing up my data structures and algorithms skills regularly.
 - I’m learning at the moment C#, .NET and Angular. 
 
 ##  :man: Connect
@@ -24,6 +24,3 @@
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rodrigoscosta&show_icons=true&locale=en&layout=compact" alt="rodrigoscosta" /></p>
-
-
-

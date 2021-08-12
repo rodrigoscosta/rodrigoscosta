@@ -2,9 +2,9 @@
 
 ### <h1 align="center">Hi 👋, I'm Rodrigo</h1>
 - I am a passionate backend developer from São Paulo, Brazil.
-- Looking for opportunities and collaboration in projects related to .NET.
+- Looking for opportunities and collaboration in projects related to .NET and Java.
 - I’m brushing up my data structures and algorithms skills regularly.
-- I’m learning at the moment C#, .NET and Angular. 
+- I’m learning at the moment C#, .NET, Java and Angular. 
 
 ##  :man: Connect
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-santos23/)

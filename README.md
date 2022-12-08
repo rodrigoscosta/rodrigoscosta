@@ -4,7 +4,7 @@
 - I am a passionate backend developer from São Paulo, Brazil.
 - Looking for opportunities and collaboration in projects.
 - I’m brushing up my data structures and algorithms skills regularly.
-- I’m learning at the moment C#, .NET, Java and Angular. 
+- I’m learning at the moment C#, .NET and Angular. 
 
 ##  :man: Connect
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rodrigo-santos23/)
